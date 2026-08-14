@@ -11,7 +11,7 @@ export default function Page() {
             <Heart className="w-8 h-8 text-pink-600" />
             <span className="text-xl font-bold">Javari Weddings</span>
           </div>
-          <a href="/signup" className="bg-pink-600 text-white px-4 py-2 rounded-lg hover:bg-pink-700">Get Started</a>
+          <a href="https://craudiovizai.com/signup" className="bg-pink-600 text-white px-4 py-2 rounded-lg hover:bg-pink-700">Get Started</a>
         </div>
       </nav>
       
